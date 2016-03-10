@@ -1,2 +1,3 @@
 # Quiver-iOS
-Quiver for iOS
+
+Please report iOS specific issues here: https://github.com/HappenApps/Quiver-iOS/issues
